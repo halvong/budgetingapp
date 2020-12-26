@@ -1,10 +1,10 @@
-package com.codercampus.budgetingapp;
+package com.coderscampus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BudgetingappApplicationTests {
+class MarsroverapiApplicationTests {
 
     @Test
     void contextLoads() {

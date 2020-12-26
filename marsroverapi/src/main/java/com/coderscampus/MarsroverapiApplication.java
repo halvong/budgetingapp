@@ -1,13 +1,13 @@
-package com.codercampus.budgetingapp;
+package com.coderscampus;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BudgetingappApplication {
+public class MarsroverapiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BudgetingappApplication.class, args);
+        SpringApplication.run(MarsroverapiApplication.class, args);
     }
 
 }
